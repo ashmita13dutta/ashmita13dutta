@@ -2,8 +2,6 @@
 
 Computer science undergraduate in Kolkata, building user-centered, intelligent applications. I make responsive web apps and apply machine learning to real-world problems, with a focus on intuitive, accessible experiences that people can trust. I'm also working through a 135-day Java data-structures and algorithms challenge.
 
-Trust is the thread, so I like problems where speed and safety pull against each other, such as banking flows and fraud-risk engines. I find bugs by running the whole system, then write regression tests so they stay fixed.
-
 Completed the JPMorgan Chase Advanced Software Engineering virtual experience on Forage ([repo](https://github.com/ashmita13dutta/forage-midas)). Research intern at NITTTR Kolkata (2026), where I built FinTalk, an offline, multilingual voice finance assistant, and at Amity (2025), where I built a Neo4j knowledge graph for movie and song recommendations.
 
 ## Stack
